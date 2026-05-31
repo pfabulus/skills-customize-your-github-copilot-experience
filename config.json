@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-sqlite",
+      "title": "Python Persistence with SQLite",
+      "description": "Store and manage data in a SQLite database using Python and SQL CRUD operations.",
+      "path": "assignments/python-sqlite",
+      "dueDate": "2026-07-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
